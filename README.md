@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tars4815
-- 👀 I’m interested in GIS, remote sensing and 
+- 👀 I’m interested in GIS, remote sensing and photogrammetry applications
 - 🌱 I’m currently learning Python programming
 
 <!---
