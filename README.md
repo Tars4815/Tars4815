@@ -1,7 +1,10 @@
+[![GitHub Badge](https://img.shields.io/github/followers/Tars4815?style=social)](https://github.com/Tars4815?tab=followers)
+[![Twitter Badge](https://img.shields.io/twitter/follow/fede_gaspari?style=social)](https://twitter.com/fede_gaspari)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/federicagaspari)
+
 - 👋 Hi, it's @Tars4815 (she/her), I'm a Graduate Research Fellow in Environmental Engineering at Politecnico di Milano (Italy)
 - 👀 I’m interested in GIS, remote sensing and photogrammetry applications
-- 🌱 I’m currently learning Python programming 🐍
-- 💬 You can reach me here: [Twitter](https://twitter.com/fede_gaspari) - [LinkedIn](https://www.linkedin.com/in/federicagaspari/)
+- 🌱 I’m currently learning Python programming 🐍 and Advanced PostGIS 📒
 
 <!---
 Tars4815/Tars4815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
