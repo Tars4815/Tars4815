@@ -6,6 +6,8 @@
 - 👀 I’m interested in GIS, remote sensing and photogrammetry applications
 - 🌱 I’m currently learning Python programming 🐍 and Advanced PostGIS 📒
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tars4815)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tars4815)](https://github.com/anuraghazra/github-readme-stats) 
+
 <!---
 Tars4815/Tars4815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
