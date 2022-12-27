@@ -10,7 +10,11 @@
 - 🌱 I’m currently learning Python programming 🐍 and Advanced PostGIS 📒
 
 
-[![Fede's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tars4815)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tars4815)](https://github.com/anuraghazra/github-readme-stats) 
+[![Fede's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tars4815)](https://github.com/anuraghazra/github-readme-stats) 
+
+<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tars4815)](https://github.com/anuraghazra/github-readme-stats) 
+--->
 
 <!---
 Tars4815/Tars4815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
