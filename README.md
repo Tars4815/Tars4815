@@ -5,7 +5,7 @@
 [![ResearchGate Badge](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Federica-Gaspari)
 [![StackExchange Badge](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://gis.stackexchange.com/users/209099/federica-gaspari)
 
-- 👋 Hi, it's @Tars4815 (she/her), I'm a Graduate Research Fellow in Environmental Engineering at Politecnico di Milano (Italy)
+- 👋 Hi, it's @Tars4815 (she/her), I'm a PhD Student in Environmental Engineering at Politecnico di Milano (Italy)
 - 👀 I’m interested in GIS, remote sensing and photogrammetry applications
 - 🌱 I’m currently learning Python programming 🐍 and Advanced PostGIS 📒
 
