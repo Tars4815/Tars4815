@@ -9,10 +9,9 @@
 - 👀 I’m interested in GIS, remote sensing and photogrammetry applications
 - 🌱 I’m currently learning Python programming 🐍 and Advanced PostGIS 📒
 
-
+<!---
 [![Fede's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tars4815)](https://github.com/anuraghazra/github-readme-stats) 
 
-<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tars4815)](https://github.com/anuraghazra/github-readme-stats) 
 --->
 
