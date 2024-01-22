@@ -7,7 +7,7 @@
 
 - 👋 Hi, it's @Tars4815 (she/her), I'm a PhD Student in Environmental Engineering at Politecnico di Milano (Italy)
 - 👀 I’m interested in GIS, remote sensing and photogrammetry applications
-- 🌱 I’m currently learning Python programming 🐍 and Advanced PostGIS 📒
+- 🌱 I’m currently learning JavaScript programming 👩‍💻 and Advanced PostGIS 📒
 
 <!---
 [![Fede's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tars4815)](https://github.com/anuraghazra/github-readme-stats) 
